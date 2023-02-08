@@ -1,1 +1,2 @@
-done README,md
+#!/bin/bash
+pwd
