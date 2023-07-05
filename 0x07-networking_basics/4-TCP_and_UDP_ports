@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# turn on listening ports. and listening sockets as well
+# + .............as the PID and name of the prog.
+
+netstat -l --program
