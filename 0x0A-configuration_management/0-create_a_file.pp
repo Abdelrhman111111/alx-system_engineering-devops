@@ -1,4 +1,4 @@
-# making  file in /tmp with specific content
+# making  file in /tmp 
 
 file { 'school':
   path    => '/tmp/school',
